@@ -27,4 +27,4 @@ Assignment week 7 Fadhil Muhammad Daffa/Team Akusara
    - cat cv.txt
 6. - cd..
    - cd sekolah
-   - mv portfolio.txt /d/assignment week 7/Fadhil/kerja
+   - mv portfolio.txt /c/assignment-week-7/Fadhil/kerja
